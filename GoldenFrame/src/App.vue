@@ -1,4 +1,4 @@
-<script lang="ts" setup>
+<script setup>
 import { onMounted, ref } from "vue";
 import framesData from "./frames_data.json";
 import elementDraggable from "./lib/elementDraggable";

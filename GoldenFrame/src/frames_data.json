@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Big Frame",
+    "path": "/frames/big_frame.jpg"
+  },
+  {
+    "name": "Golden Frame",
+    "path": "/frames/golden_frame.png"
+  },
+  {
+    "name": "Obamium Portrait",
+    "path": "/frames/obamium_portrait.jpg"
+  },
+  {
+    "name": "Plain Golden Frame",
+    "path": "/frames/plaingoldenframe.jpg"
+  },
+  {
+    "name": "Vlad Frame",
+    "path": "/frames/vladdy_daddy.jpg"
+  },
+  {
+    "name": "Wessuwan",
+    "path": "/frames/wessuwan.png"
+  }
+]
